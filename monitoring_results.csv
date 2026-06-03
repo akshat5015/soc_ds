@@ -1,0 +1,8 @@
+Metric,Value
+RMSE,0.0712
+MAE,0.0272
+R² Score,0.9543
+Baseline Revenue,900000.0
+Agent Revenue,1179225.0
+Revenue Gain %,31.03
+Off-Peak Uplift Sessions,265.0
